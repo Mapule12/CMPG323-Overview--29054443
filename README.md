@@ -6,10 +6,10 @@ My branching strategy as of present will be to create separate project files for
 should there be changes I will update.
 Each project will be having a repository of its own just as I have done for project one.
 
-```mermaid
-graph TD;
-  A-->B;
-```
+```mermaid    ```mermaid
+graph TD;     graph TD;
+  A-->B;        B-->C;
+```           ```
 
 # Repositories 
 
