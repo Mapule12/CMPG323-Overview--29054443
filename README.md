@@ -21,10 +21,10 @@ CMPG323-project-3-29054443 for project 3,
 CMPG323-project-4-29054443 for project 4,
 CMPG323-project-5-29054443 for project 5.
 
-#gitignore
+# gitignore
 
 I will be including a gitignore file in every project to ensure that lecturers only see the required parts of the projects and not my own separate work and trial-and-error files.
 
-#Storage of credentials and sensitive information
+# Storage of credentials and sensitive information
 Login to my Github account is a two step verification step which provides a form of security for my account.
 I have created a strong password.
