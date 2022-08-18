@@ -8,7 +8,7 @@ Each project will be having a repository of its own just as I have done for proj
 
 ```mermaid
 graph TD;
-  CMPG323Overview29054443 -->Project 1  Overview Plan on Github for the Semester's work and projects;
+  A-->B;
 ```
 
 # Repositories 
